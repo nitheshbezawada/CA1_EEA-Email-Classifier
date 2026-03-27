@@ -1,0 +1,40 @@
+,precision,recall,f1-score,support,chain_level
+Problem/Fault,0.6428571428571429,0.6923076923076923,0.6666666666666666,13.0,Level_1
+Suggestion,0.7894736842105263,0.75,0.7692307692307693,20.0,Level_1
+accuracy,0.7272727272727273,0.7272727272727273,0.7272727272727273,0.7272727272727273,Level_1
+macro avg,0.7161654135338347,0.7211538461538461,0.717948717948718,33.0,Level_1
+weighted avg,0.7317156527682844,0.7272727272727273,0.7288267288267288,33.0,Level_1
+Problem/Fault_AppGallery-Install/Upgrade,0.3333333333333333,1.0,0.5,3.0,Level_2
+Problem/Fault_AppGallery-Use,0.0,0.0,0.0,2.0,Level_2
+Problem/Fault_Coupon/Gifts/Points Issues,0.6,0.75,0.6666666666666666,4.0,Level_2
+Problem/Fault_General,0.0,0.0,0.0,2.0,Level_2
+Problem/Fault_Payment issue,0.0,0.0,0.0,0.0,Level_2
+Problem/Fault_Third Party APPs,0.3333333333333333,0.5,0.4,2.0,Level_2
+Suggestion_AppGallery-Use,0.0,0.0,0.0,1.0,Level_2
+Suggestion_General,0.0,0.0,0.0,3.0,Level_2
+Suggestion_Invoice,0.0,0.0,0.0,1.0,Level_2
+Suggestion_Payment,1.0,0.9285714285714286,0.9629629629629629,14.0,Level_2
+Suggestion_VIP / Offers / Promotions,1.0,1.0,1.0,1.0,Level_2
+accuracy,0.6363636363636364,0.6363636363636364,0.6363636363636364,0.6363636363636364,Level_2
+macro avg,0.29696969696969694,0.3798701298701299,0.3208754208754208,33.0,Level_2
+weighted avg,0.5777777777777777,0.6363636363636364,0.589337822671156,33.0,Level_2
+Problem/Fault_AppGallery-Install/Upgrade_Can't download Apps,0.0,0.0,0.0,0.0,Level_3
+Problem/Fault_AppGallery-Install/Upgrade_Can't install Apps,0.0,0.0,0.0,1.0,Level_3
+Problem/Fault_AppGallery-Install/Upgrade_Other download/install/update issue,0.25,0.5,0.3333333333333333,2.0,Level_3
+Problem/Fault_AppGallery-Use_UI Abnormal in Huawei AppGallery,0.0,0.0,0.0,2.0,Level_3
+Problem/Fault_Coupon/Gifts/Points Issues_Can't use or acquire,0.4,1.0,0.5714285714285714,2.0,Level_3
+Problem/Fault_Coupon/Gifts/Points Issues_Cooperated campaign issue,0.0,0.0,0.0,2.0,Level_3
+Problem/Fault_General_AppGallery not loading,0.0,0.0,0.0,1.0,Level_3
+Problem/Fault_General_Cannot connect - Server,0.0,0.0,0.0,1.0,Level_3
+Problem/Fault_Payment issue_Risk Control,0.0,0.0,0.0,0.0,Level_3
+Problem/Fault_Third Party APPs_Refund,0.3333333333333333,0.5,0.4,2.0,Level_3
+Suggestion_AppGallery-Use_Others,0.0,0.0,0.0,1.0,Level_3
+Suggestion_General_Others,0.0,0.0,0.0,1.0,Level_3
+Suggestion_General_Personal data,0.0,0.0,0.0,2.0,Level_3
+Suggestion_Invoice_Invoice related request,0.0,0.0,0.0,1.0,Level_3
+Suggestion_Payment_Query deduction details,0.0,0.0,0.0,2.0,Level_3
+Suggestion_Payment_Subscription cancellation,0.9230769230769231,1.0,0.96,12.0,Level_3
+Suggestion_VIP / Offers / Promotions_Offers / Vouchers / Promotions,1.0,1.0,1.0,1.0,Level_3
+accuracy,0.5151515151515151,0.5151515151515151,0.5151515151515151,0.5151515151515151,Level_3
+macro avg,0.17096530920060335,0.23529411764705882,0.19204481792717085,33.0,Level_3
+weighted avg,0.42556332556332555,0.5151515151515151,0.4584704184704185,33.0,Level_3

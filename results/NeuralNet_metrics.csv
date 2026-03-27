@@ -1,0 +1,37 @@
+,precision,recall,f1-score,support,chain_level
+Problem/Fault,0.5,1.0,0.6666666666666666,13.0,Level_1
+Suggestion,1.0,0.35,0.5185185185185185,20.0,Level_1
+accuracy,0.6060606060606061,0.6060606060606061,0.6060606060606061,0.6060606060606061,Level_1
+macro avg,0.75,0.675,0.5925925925925926,33.0,Level_1
+weighted avg,0.803030303030303,0.6060606060606061,0.5768799102132436,33.0,Level_1
+Problem/Fault_AppGallery-Install/Upgrade,0.375,1.0,0.5454545454545454,3.0,Level_2
+Problem/Fault_AppGallery-Use,0.0,0.0,0.0,2.0,Level_2
+Problem/Fault_Coupon/Gifts/Points Issues,0.5714285714285714,1.0,0.7272727272727273,4.0,Level_2
+Problem/Fault_General,0.0,0.0,0.0,2.0,Level_2
+Problem/Fault_Third Party APPs,1.0,0.5,0.6666666666666666,2.0,Level_2
+Suggestion_AppGallery-Use,0.0,0.0,0.0,1.0,Level_2
+Suggestion_General,0.0,0.0,0.0,3.0,Level_2
+Suggestion_Invoice,0.0,0.0,0.0,1.0,Level_2
+Suggestion_Payment,0.875,1.0,0.9333333333333333,14.0,Level_2
+Suggestion_VIP / Offers / Promotions,0.0,0.0,0.0,1.0,Level_2
+accuracy,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666,Level_2
+macro avg,0.28214285714285714,0.35,0.2872727272727273,33.0,Level_2
+weighted avg,0.5351731601731602,0.6666666666666666,0.5741046831955923,33.0,Level_2
+Problem/Fault_AppGallery-Install/Upgrade_Can't install Apps,0.0,0.0,0.0,1.0,Level_3
+Problem/Fault_AppGallery-Install/Upgrade_Other download/install/update issue,0.0,0.0,0.0,2.0,Level_3
+Problem/Fault_AppGallery-Use_UI Abnormal in Huawei AppGallery,0.0,0.0,0.0,2.0,Level_3
+Problem/Fault_Coupon/Gifts/Points Issues_Can't use or acquire,0.2857142857142857,1.0,0.4444444444444444,2.0,Level_3
+Problem/Fault_Coupon/Gifts/Points Issues_Cooperated campaign issue,0.0,0.0,0.0,2.0,Level_3
+Problem/Fault_General_AppGallery not loading,0.0,0.0,0.0,1.0,Level_3
+Problem/Fault_General_Cannot connect - Server,0.0,0.0,0.0,1.0,Level_3
+Problem/Fault_Third Party APPs_Refund,0.0,0.0,0.0,2.0,Level_3
+Suggestion_AppGallery-Use_Others,0.0,0.0,0.0,1.0,Level_3
+Suggestion_General_Others,0.0,0.0,0.0,1.0,Level_3
+Suggestion_General_Personal data,0.0,0.0,0.0,2.0,Level_3
+Suggestion_Invoice_Invoice related request,0.0,0.0,0.0,1.0,Level_3
+Suggestion_Payment_Query deduction details,0.0,0.0,0.0,2.0,Level_3
+Suggestion_Payment_Subscription cancellation,0.5,1.0,0.6666666666666666,12.0,Level_3
+Suggestion_VIP / Offers / Promotions_Offers / Vouchers / Promotions,0.0,0.0,0.0,1.0,Level_3
+accuracy,0.42424242424242425,0.42424242424242425,0.42424242424242425,0.42424242424242425,Level_3
+macro avg,0.05238095238095238,0.13333333333333333,0.07407407407407408,33.0,Level_3
+weighted avg,0.19913419913419914,0.42424242424242425,0.26936026936026936,33.0,Level_3
